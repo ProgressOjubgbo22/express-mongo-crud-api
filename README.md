@@ -28,3 +28,20 @@ project/
 │   └── productroute.js
 ├── server.js
 ├── package.json
+
+API Endpoints
+
+Posts
+GET / → Get all posts
+GET /:id → Get single post
+POST / → Create post
+PUT /:id → Update post
+DELETE /:id → Delete post
+
+Products
+GET / → Get all products
+GET /:id → Get single product
+POST / → Create product
+PUT /:id → Update product
+DELETE /:id → Delete product
+
